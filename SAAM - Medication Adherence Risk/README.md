@@ -31,7 +31,10 @@
 ![](img/saam_medication_adherence_risk_overview_tab.png)
 
 * ### Data Tab ###
+>Data tab in stand alone custom step
 ![](img/saam_medication_adherence_risk_data_tab_standalone.png)
+
+>Data tab shown within a flow diagram
 ![](img/saam_medication_adherence_risk_data_tab_flow.png)
 
 * ### Options Tab ###
