@@ -27,9 +27,6 @@
 
 ## User Interface
 
-* ### Overview Tab ###
-![](img/saam_medication_adherence_risk_overview_tab.png)
-
 * ### Data Tab ###
 >Data tab in stand alone custom step
 ![](img/saam_medication_adherence_risk_data_tab_standalone.png)
@@ -39,6 +36,9 @@
 
 * ### Options Tab ###
 ![](img/saam_medication_adherence_risk_options_tab.png)
+
+* ### About Tab ###
+![](img/saam_medication_adherence_risk_about_tab.png)
 
 ## Requirements
 > SAS Viya 2024.06 or later
